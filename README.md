@@ -1,9 +1,5 @@
 # Java Socket Programming and Vigenere Cipher
 
-Here’s a well-structured **README.md** file for your GitHub repository based on Lab 1. It provides a professional and educational overview of the lab while making it engaging.
-
----
-
 # **COE817 - Lab 1: Java Socket Programming & Vigenère Cipher**
 
 ## **Overview**
