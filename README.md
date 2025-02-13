@@ -127,5 +127,4 @@ For **Project 2**, the program will:
 
 
 ## **Author**
-**Husain Yunus Maudiwala**  
-*5th-year Computer Engineering Student @ Toronto Metropolitan University*  
+👨‍💻 **Husain Yunus Maudiwala**  
